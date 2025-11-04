@@ -1,2 +1,2 @@
 # Umbral-Control-Variates-for-Exotic-Options
-Approximate a exotic option payoff by a polynomial expansion using umbral calculus
+Approximate the Asian's average price distribution by a moment-matched surrogate (v1: 2-moment lognormal). Then price $(\overbar S - K)^+$ analyticaally under that surrogate.
